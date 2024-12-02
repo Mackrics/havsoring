@@ -1,0 +1,6 @@
+[book]
+authors = ["Markus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Havsöring.com"
